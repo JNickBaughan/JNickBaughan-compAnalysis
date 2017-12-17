@@ -1,0 +1,31 @@
+{
+  "name": "jnickbaughan-companalysis",
+  "version": "1.0.0",
+  "description": "tool for performing comp analysis on real estate properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JNickBaughan/JNickBaughan-compAnalysis.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "real",
+    "estate",
+    "comp",
+    "analysis"
+  ],
+  "author": "J Nick Baughan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JNickBaughan/JNickBaughan-compAnalysis/issues"
+  },
+  "homepage": "https://github.com/JNickBaughan/JNickBaughan-compAnalysis#readme",
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "webpack": "^3.10.0"
+  }
+}
